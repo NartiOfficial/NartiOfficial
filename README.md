@@ -16,8 +16,8 @@ During my learning and programming practice, I worked on several projects. Here 
 
 1. **Lotto**: The “Lotto” project is a console application written in Java, using the Lombok library for code generation and containing unit tests for individual components. Check it out <a href="https://github.com/NartiOfficial/Lotto" >Here</a>.
 
-2. **Coming Soon**: 
-
+2. **Songify**: **This application is part of the ongoing development of the Songify project and handles operations on music tracks.** It provides a REST API interface that allows adding, deleting, and updating information about tracks. It also enables fetching all tracks or a specific track based on its identifier. Additionally, it supports partial updating of track information. Normal database integration will be added as part of the ongoing development of the project. Check it out <a href="https://github.com/NartiOfficial/Songify" >Here</a>.
+   
 3. **Coming Soon**: 
 
 ## 💻 Tools and Technologies
